@@ -7,8 +7,8 @@ public class TestingTask {
 	}
 
 	public static void findTwoLargestNumbers(String[] args) {
-		
-		int ma1 = 1, ma2 = 0;
+		//commant
+		int ma1 = 1, ma2 = 1;
 	
 		if (args.length == 0) {                            /* 1 */
 			System.out.println("No numbers");
